@@ -8,5 +8,8 @@ printf("Hello this is git practice\n");
 printf("after commit with tag\n");
 
 printf("Testing tags\n");
-return 0;
+
+printf("Testing pull");
+  
+  return 0;
 }
