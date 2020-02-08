@@ -11,5 +11,7 @@ printf("Testing tags\n");
 
 printf("Testing merge\n");
 
+printf("Testing cherry-pick\n");
+
 return 0;
 }
